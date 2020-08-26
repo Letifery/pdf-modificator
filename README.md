@@ -1,5 +1,5 @@
 # pdf-modificator
-A small python program to merge and rotate your .pdf files.
+A small python program to edit your .pdf files.
 
 ## Setup
 To use this program, you need:
