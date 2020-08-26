@@ -7,9 +7,11 @@ To use this program, you need:
   * PyPDF2 (use "pip install PyPDF2" on cmd if you have pip)
   
 Don't forget the quotationmarks if you specify paths
-  
-## Argument list
-m     Merge files in directory [DEFAULT: Current]
-r     Rotate [90,180,270] degrees clockwise
-pall  (Must be first parameter) select all .pdf files of specified directory
-pvar  (Must be first parameter) select multiple .pdf files (needs absolute paths, seperated by space - Not working with files which are beginning with "-")
+
+## Current Features
+To see a more detailed list on how to use these features, type "Python MergePDF.py -h" on your console
+
+* Merge files
+* Rotate files [90,180,270] degrees clockwise
+
+* modes for file selection
