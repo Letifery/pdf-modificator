@@ -9,7 +9,7 @@ To use this program, you need:
 Don't forget the quotationmarks if you specify paths
 
 ## Current Features
-To see a more detailed list on how to use these features, type "Python MergePDF.py -h" on your console
+To see a more detailed list on how to use these features, type "python mpdf-v1.1.1.py -h" on your console (don't forget to be in the same directory)
 
 * Merge files
 * Rotate files [90,180,270] degrees clockwise
